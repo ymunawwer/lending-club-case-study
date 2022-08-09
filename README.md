@@ -3,7 +3,7 @@
 ## Goals of data analysis:  
 
 ``` 
-Lending loans to ‘risky’ applicants is the largest source of financial loss
+Lending loans to â€˜riskyâ€™ applicants is the largest source of financial loss
 (called credit loss). The credit loss is the amount of money lost by the lender 
 when the borrower refusesto pay or runs away with the money owed.  
 
@@ -25,21 +25,21 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 
-##Observations
+## Observations
 
-###The above analysis with respect to the charged off loans. There is a more probability of defaulting when :
-
-
-####Applicants taking loan for 'home improvement' and have income of 60k -70k
-
-####Applicants whose home ownership is 'MORTGAGE and have income of 60-70k
-
-####Applicants who receive interest at the rate of 21-24% and have an income of 70k-80k
+### The above analysis with respect to the charged off loans. There is a more probability of defaulting when :
 
 
+#### Applicants taking loan for 'home improvement' and have income of 60k -70k
+
+#### Applicants whose home ownership is 'MORTGAGE and have income of 60-70k
+
+#### Applicants who receive interest at the rate of 21-24% and have an income of 70k-80k
 
 
-### Contributors
+
+
+## Contributors
 - Yaseen Munawwer
 - Mehreen Mushtaq Shamim
 
