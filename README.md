@@ -27,14 +27,14 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 ## Observations
 
-### 1)The above analysis with respect to the charged off loans. There is a more probability of defaulting when :
+### The above analysis with respect to the charged off loans. There is a more probability of defaulting when :
 
 
-#### 2)Applicants taking loan for 'home improvement' and have income of 60k -70k
+#### 1)Applicants taking loan for 'home improvement' and have income of 60k -70k
 
-#### 3)Applicants whose home ownership is 'MORTGAGE and have income of 60-70k
+#### 2)Applicants whose home ownership is 'MORTGAGE and have income of 60-70k
 
-#### 4)Applicants who receive interest at the rate of 21-24% and have an income of 70k-80k
+#### 3)Applicants who receive interest at the rate of 21-24% and have an income of 70k-80k
 
 
 
